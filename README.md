@@ -1,4 +1,6 @@
-<img src="banner" />
+
+
+![banner](/banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Santiago</h1>
