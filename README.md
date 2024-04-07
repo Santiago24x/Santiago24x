@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **santiagomarquez.it@gmail.com**
 
-- 📄 I'm a student [Systems engineering and campusland bootcamp](Systems engineering and campusland bootcamp)
+- 📄 I'm a student Systems engineering and campusland bootcamp
 
 - ⚡ Fun fact **I enjoy teaching pedagogically**
 
