@@ -1,5 +1,9 @@
+<img src="banner" />
+
+
 <h1 align="center">Hi 👋, I'm Santiago</h1>
 <h3 align="center">A passionate Backend developer from Colombia</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santiago24x&label=Profile%20views&color=0e75b6&style=flat" alt="santiago24x" /> </p>
 
